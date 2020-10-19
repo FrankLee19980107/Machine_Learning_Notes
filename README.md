@@ -1,3 +1,4 @@
-# Machine Learning Algorithm Notes and Implement
+# Machine Learning Algorithm Implementation
+
 ---
 ## Perceptron Learning Algorithm
