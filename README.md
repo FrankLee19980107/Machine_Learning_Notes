@@ -2,3 +2,6 @@
 
 ---
 ## Perceptron Learning Algorithm
+
+* Pocket PLA
+* Naive PLA
